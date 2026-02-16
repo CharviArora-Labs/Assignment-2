@@ -86,7 +86,7 @@ Two scripts automate common development tasks:
 
 - clean-safe.sh — Safe cleanup of temporary artifacts
 
- 1) scripts/dev-status.sh — Development Status Script
+### 1) scripts/dev-status.sh — Development Status Script
 
 Performs read-only checks to verify that the local development environment is healthy.
 
@@ -104,7 +104,8 @@ How to Run?
 ```bash
 scripts/dev-status.sh
 ```
-2) scripts/clean-safe.sh — Safe Cleanup Script
+
+### 2) scripts/clean-safe.sh — Safe Cleanup Script
    
 Safely removes temporary artifacts without touching:
 
