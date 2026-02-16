@@ -65,6 +65,7 @@ http://localhost:3000
 ```
 
 Project Structure
+```bash
 assignment-2/
 ├── app/
 │   ├── log/
@@ -75,8 +76,7 @@ assignment-2/
 │   └── clean-safe.sh
 └── docs/
     └── assignment-02.md
-
-
+```
 
 ## Scripts Overview:
 
